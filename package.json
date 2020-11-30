@@ -1,6 +1,6 @@
 {
   "name": "vitepress-cli",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-beta.1",
   "description": "A lightweight CLI for VitePress project.",
   "main": "./bin/index.js",
   "bin": {

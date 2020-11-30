@@ -53,4 +53,4 @@ $ vitepress-cli mirror https://zpfz.vercel.app/template/vitepress/
 You can customize the template mirror link by youself, but the template file name must be `template.zip`, and the mirror link should be `/` ending.  
 For example, the full link to your custom template mirror is `https://example.com/mirror/template.zip`, the mirror link that vitepress-cli can recognize should be `https://example.com/mirror/`.  
 
-You can download the VitePress template from [vitepress-cli/tpl](https://github.com/zpfz/vitepress-cli/tpl). 
+You can download the VitePress template from [vitepress-cli/tpl](https://github.com/zpfz/vitepress-cli/tree/master/tpl). 

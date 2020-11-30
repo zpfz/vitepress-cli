@@ -53,4 +53,4 @@ $ vitepress-cli mirror https://zpfz.vercel.app/template/vitepress/
 你可以自定义镜像链接，但模板文件名必须是 `template.zip`，而且镜像链接必须以 `/` 结尾。  
 举个栗子：你自定义模板镜像的完整链接为 `https://example.com/mirror/template.zip`，那么， vitepress-cli 脚手架可以识别的链接为 `https://example.com/mirror/`。
 
-你可以从 [vitepress-cli/tpl](https://github.com/zpfz/vitepress-cli/tpl) 下载 VitePress 模板，然后放到你自己定义的镜像链接中。
+你可以从 [vitepress-cli/tpl](https://github.com/zpfz/vitepress-cli/tree/master/tpl) 下载 VitePress 模板，然后放到你自己定义的镜像链接中。
