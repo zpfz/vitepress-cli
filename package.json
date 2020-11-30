@@ -1,0 +1,39 @@
+{
+  "name": "vitepress-cli",
+  "version": "1.0.0-beta",
+  "description": "A lightweight CLI for VitePress project.",
+  "main": "./bin/index.js",
+  "bin": {
+    "vitepress-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "zpfz/vitepress-cli",
+  "bugs": "https://github.com/zpfz/vitepress-cli/issues",
+  "keywords": [
+    "vitepress",
+    "vite",
+    "cli",
+    "vitepress-cli",
+    "starter",
+    "vitepress-starter",
+    "creator",
+    "vitepress-creator"
+  ],
+  "author": "Feng L.H.",
+  "homepage": "https://github.com/zpfz/vitepress-cli",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "download": "^8.0.0",
+    "fs-extra": "^9.0.1",
+    "log-symbols": "^3.0.0",
+    "ora": "^5.1.0",
+    "update-notifier": "^4.1.1"
+  },
+  "engines": {
+    "node": ">=8.6"
+  }
+}
